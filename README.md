@@ -1,6 +1,6 @@
 # Curso de Estatística com Python: frequências e medidas
 
-* **Conteúdo**
+* **Conteúdo:**
   
 * Entendendo estatística e os números que você lida
 * Descubrindo a diferença entre média, mediana e moda na prática
