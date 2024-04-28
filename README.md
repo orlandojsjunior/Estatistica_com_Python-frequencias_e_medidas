@@ -1,4 +1,6 @@
-# Curso de Estatística com Python: frequências e medidas
+# Curso de Estatística com Python: 
+
+frequências e medidas
 
 * **Conteúdo:**
   
