@@ -1,7 +1,9 @@
 # Curso de Estatística com Python
 ## Frequências e medidas
 
-**Principais tópicos do curso:**
+**Esse curso faz parte da [Formação Data Science](https://cursos.alura.com.br/formacao-data-science)**
+
+Principais tópicos do curso:
   
 * Estatística e os números que lidamos
 * Diferença entre média, mediana e moda na prática
