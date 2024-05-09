@@ -1,8 +1,7 @@
-# Curso de Estatística com Python: 
+# Curso de Estatística com Python
+## Frequências e medidas
 
-frequências e medidas
-
-* **Conteúdo:**
+**Pricipais tópicos do curso:**
   
 * Estatística e os números que lidamos
 * Diferença entre média, mediana e moda na prática
