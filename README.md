@@ -1,7 +1,7 @@
 # Curso de Estatística com Python
 ## Frequências e medidas
 
-**Esse curso faz parte da [Formação Data Science](https://cursos.alura.com.br/formacao-data-science)**
+**Esse curso faz parte da [Formação Estatística com Python](https://cursos.alura.com.br/formacao-estatistica-python)**
 
 Principais tópicos do curso:
   
@@ -11,9 +11,3 @@ Principais tópicos do curso:
 * Distribuição de frequência
 * Variância e o desvio padrão
   
-
-
-
-
-
-
