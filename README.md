@@ -1,4 +1,5 @@
 # [Formação Estatística com Python](https://cursos.alura.com.br/formacao-estatistica-python)
+Estatística de uma forma aplicada com Python
 ## [Frequências e medidas](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas)
 
 
