@@ -1,6 +1,6 @@
 # [Formação Estatística com Python](https://cursos.alura.com.br/formacao-estatistica-python)
 Estatística de uma forma aplicada com Python
-## [Frequências e medidas](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas)
+# [Curso de Estatística com Python: frequências e medidas](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas)
 
 
 ### Principais tópicos do curso:
